@@ -1,11 +1,10 @@
 
 <div align="center">
 
-<img src="retro.gif" width="300">
+<img src="retro.gif" width="500">
 
 </div>
 
-<br>
 
 
 
