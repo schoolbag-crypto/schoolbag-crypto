@@ -1,7 +1,14 @@
 
 <div align="center">
-  <img src="retro.gif" width="600">
+
+<img src="retro.gif" width="300">
+
 </div>
+
+<br>
+
+
+
 
 
 
