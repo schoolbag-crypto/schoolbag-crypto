@@ -1,7 +1,9 @@
 
+<div align="center">
+  <img src="pixel_desk_loop.gif" width="400">
+</div>
 
 
-![Gift](pixel_desk_loop.gif)
 
 # Fatima Kamran
 
