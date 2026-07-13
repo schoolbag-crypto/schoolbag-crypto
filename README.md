@@ -1,13 +1,13 @@
 
 <div align="center">
-  <img src="pixel_desk_loop.gif" width="400">
+  <img src="retro.gif" width="500">
 </div>
 
 
 
-           # Fatima Kamran
+# Fatima Kamran
 
-      ### Electrical Engineering Student
+### Electrical Engineering Student
 
 *"learning, building, and finding fascination in unexpected places."*
 
