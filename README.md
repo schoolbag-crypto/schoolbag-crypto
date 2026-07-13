@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="retro.gif" width="800">
+  <img src="retro.gif" width="600">
 </div>
 
 
