@@ -5,9 +5,9 @@
 
 
 
-# Fatima Kamran
+           # Fatima Kamran
 
-### Electrical Engineering Student
+      ### Electrical Engineering Student
 
 *"learning, building, and finding fascination in unexpected places."*
 
@@ -41,8 +41,8 @@ and understand along the way.
 ## A Few Things About Me
 
 📖 I enjoy reading and collecting ideas.  
-🎧 I still prefer wired headphones over wireless ones.  
-🌙 I like quiet spaces, dark academia aesthetics, and late-night learning sessions.  
+🎧 I still prefer wired earphones over wireless ones.  
+🌙 I like quiet spaces  
 ⚙️ Slowly discovering the world of engineering one project at a time.
 
 ---
