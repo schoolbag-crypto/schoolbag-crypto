@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500">
 
 # Fatima Kamran
 
-### Electrical Engineering Student | Second Year
+### Electrical Engineering Student
+
+*"learning, building, and finding fascination in unexpected places."*
 
 </div>
 
@@ -12,51 +14,47 @@
 
 ## About Me
 
-I'm an Electrical Engineering student currently exploring the world of technology, problem-solving, and creation.
+I'm a second-year Electrical Engineering student who never imagined
+ending up here — and somehow found myself becoming curious about
+the very things I once knew little about.
 
-I enjoy understanding how ideas move from concepts to reality — from the logic behind systems to the details that make them work.
+Currently exploring the world of circuits, systems, code, and the
+quiet beauty of how ideas become reality.
 
-This space is my digital workshop: a place where I document experiments, projects, and things I build along the way.
-
----
-
-## ⚙️ Currently Exploring
-
-- Engineering concepts
-- Programming fundamentals
-- Building creative projects
-- Learning through experimentation
+This GitHub is my little archive of things I build, break, learn,
+and understand along the way.
 
 ---
 
-## 🧰 Tools & Technologies
+## Currently Learning
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode" />
-
-</p>
-
----
-
-## 📂 Projects
-
-> Currently building my collection of projects.
-
-More coming soon.
+⚡ Electrical Engineering concepts  
+💻 Programming & computational thinking  
+🧩 Problem solving through projects  
+📚 Learning beyond the classroom  
 
 ---
 
-## 📖 A Little More
+## A Few Things About Me
 
-Outside academics, I like exploring ideas, learning new things, and turning curiosity into something tangible.
-
-Every project starts as a question.
+📖 I enjoy reading and collecting ideas.  
+🎧 I still prefer wired headphones over wireless ones.  
+🌙 I like quiet spaces, dark academia aesthetics, and late-night learning sessions.  
+⚙️ Slowly discovering the world of engineering one project at a time.
 
 ---
 
-<div align="center">
+## Projects
 
-*"The best way to understand something is to build it."*
+> A work in progress.
+
+Projects, experiments, and ideas will find their way here soon.
+
+---
+
+## Connect
+
+[LinkedIn](YOUR_LINK_HERE)
 
 </div>
+
