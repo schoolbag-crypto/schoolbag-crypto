@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="pixel_art.mp4" width="500">
+<img src="pixie.gif" width="500">
 
 </div>
 
