@@ -7,7 +7,7 @@
 
 
 
-
+![my coding creature](https://raw.githubusercontent.com/schoolbag-crypto/github-tamagotchi/main/.github-tamagotchi/creature.svg)
 
 
 
