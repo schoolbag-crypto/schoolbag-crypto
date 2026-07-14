@@ -5,10 +5,11 @@
 
 </div>
 
-
-
+<div align="center">
+  
 ![my coding creature](https://raw.githubusercontent.com/schoolbag-crypto/github-tamagotchi/main/.github-tamagotchi/creature.svg)
 
+</div>
 
 
 # Fatima Kamran
